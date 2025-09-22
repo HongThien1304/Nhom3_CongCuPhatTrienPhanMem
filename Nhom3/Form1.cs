@@ -26,5 +26,10 @@ namespace Nhom3
         {
 
         }
+
+        private void txtPassword_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
