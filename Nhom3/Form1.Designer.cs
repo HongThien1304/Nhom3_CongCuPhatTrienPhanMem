@@ -57,9 +57,9 @@
             this.lblPassword.AutoSize = true;
             this.lblPassword.Location = new System.Drawing.Point(250, 212);
             this.lblPassword.Name = "lblPassword";
-            this.lblPassword.Size = new System.Drawing.Size(61, 16);
+            this.lblPassword.Size = new System.Drawing.Size(67, 16);
             this.lblPassword.TabIndex = 7;
-            this.lblPassword.Text = "Mật khẩu";
+            this.lblPassword.Text = "Password";
             // 
             // txtUsername
             // 
